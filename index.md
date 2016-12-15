@@ -66,7 +66,7 @@ One way to use the career path as a means of structuring a conversation is to hi
 * I can do this and don’t want to do more
 * I can’t do this and I’m not interested
 
-The skills and responsibilities at each level carry through to more senior levels (grades indicative).
+The skills and responsibilities at each level carry through to more senior levels (grades to be decided).
 
 <table align='left' style='width: 95%;'>
 <tbody valign="top">
