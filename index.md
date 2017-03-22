@@ -5,7 +5,7 @@ date: "2017-03-04"
 
 # Data Scientist 
 
-**Developed by the Digital, Data and Technology Profession with the Government Analytical Professions (GORS, GSS, GES & GSR)**
+**Developed by the Digital, Data and Technology Profession in collaboration with the Government Analytical Professions (GES, GORS, GSE, GSR & GSS)**
 
 This document has been put together in consultation with the Data Science community across government. It will be iterated further as the community evolves. It should be noted that the definitions and terminology within the document have been chosen to represent as close to a common definition as possible for the role, skills and capabilities across government. In constructing this common definition we recognise that terminology used here will not always match the terminology used in all departments. 
 
